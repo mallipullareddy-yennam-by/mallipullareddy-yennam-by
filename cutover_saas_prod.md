@@ -130,8 +130,7 @@ Start
 ## Step50
 - Stop Demand Consumer On-SaaS scale to 0
 
-[availability-migration-consumer-app]
-(https://console.cloud.google.com/kubernetes/statefulset/us-east1-b/urban-prod-us-east1/urban-prod/availability-migration-consumer-app/details?project=urban-saas-prod)
+[availability-migration-consumer-app](https://console.cloud.google.com/kubernetes/statefulset/us-east1-b/urban-prod-us-east1/urban-prod/availability-migration-consumer-app/details?project=urban-saas-prod)
 
 ## Step56
 - validate topics on SaaS is empty 
