@@ -1,4 +1,6 @@
-# Step19
+
+CutOver activites fron By side as DevOps
+## Step19
 ## Purge topics on SaaS
 
 - `kubectl config use-context gke_urban-saas-prod_us-east1-b_urban-prod-us-east1`
