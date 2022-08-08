@@ -1,5 +1,5 @@
 
-CutOver activites fron By side as DevOps
+CutOver activites from By side as DevOps
 ## Step19
 ## Purge topics on SaaS
 
